@@ -1,0 +1,220 @@
+
+Including all rows:
+Total sentences: 777
+Correct decisions: 491
+Incorrect decisions: 286
+Accuracy: 0.632
+
+Accuracy by error_name:
+error_name
+3.1.1 Nominative cases should not be used to express an indefinite quantity of things or a part of something (instead of the partitive genitive) with certain verbs.                         0.764706
+3.1.2 Nominative case should not be used to express direct address.                                                                                                                          0.272727
+3.2.1 Genitive case should not be used to denote the object of an action with certain verbs.                                                                                                 0.400000
+3.2.2 Genitive case should not be used to express comparative quantity with the comparative adverbs (ne) daugiau, (ne) mažiau, (ne) ilgiau, (ne) vėliau, (ne) anksčiau.                      0.875000
+3.3.1 Dative case should not be used to denote the object of an action with certain expressions.                                                                                             0.900000
+3.3.2 Dative case should not be used to describe a thing/object when purpose is not being expressed.                                                                                         0.700000
+3.3.3 Dative case should not be used for indicating a specific time limit or moment when purpose is not being expressed.                                                                     0.818182
+3.3.4 Dative should not be used with verbs of motion to express purpose.                                                                                                                     0.785714
+3.4.1 Accusative case should not be used to express an indefinite quantity of things or a part of something (instead of the partitive genitive).                                             0.400000
+3.4.2 Accusative case should not be used to express the direct object next to a negative verb (instead of the genitive).                                                                     0.600000
+3.4.3 Accusative case should not be used with verbs of motion to express purpose or aim when the accusative cannot stand alone without the infinitive.                                       0.400000
+3.5.1. Instrumental case should not be used to express the object with verbs denoting fullness or increase.                                                                                  0.727273
+3.5.2 Instrumental case should not be used to express content of quality with adjectives denoting abundance.                                                                                 0.272727
+3.5.3 Instrumental case should not be used to express the agent or cause of a state (but not the instrument) with passive participles.                                                       0.300000
+3.5.4 Instrumental case should not be used with forms of the verb būti to express a permanent (unchanging) state.                                                                            1.000000
+3.5.5 The instrumental of adjectives (and words used adjectivally) should not be used to express a state.                                                                                    0.666667
+3.6.1 Locative case should not be used to express the experiencer of a state.                                                                                                                0.700000
+3.6.2 Locative case should not be used to express the domain of an action, state, or quality (but not a place).                                                                              0.700000
+3.6.3 Locative case should not be used to express the state, condition, or characteristic of a thing.                                                                                        0.509091
+3.6.4 Locative case should not be used to express the cause or basis of a state.                                                                                                             0.916667
+3.6.5 Locative case should not be used to express the manner or timing of an action.                                                                                                         0.846154
+3.6.6 Locative case should not be used to express a time period as a preposition or postposition.                                                                                            0.400000
+4.1.1 Ant should not be used to to express the instrument/means of an action when it is not related to location.                                                                             0.500000
+4.1.2 Ant should not be used to express the object with adjectives.                                                                                                                          0.300000
+4.1.3 Ant should not be used to express the object of an action with verbs.                                                                                                                  0.700000
+4.1.4 Ant should not be used to indicate dimensions or a ratio of sizes.                                                                                                                     0.700000
+4.1.5 Ant should not be used to express a characteristic of a thing not related to location.                                                                                                 0.700000
+4.1.6 Ant should not be used to express place when what is meant is not a surface, but a direction into something or being inside something.                                                 0.800000
+4.1.7 Ant should not be used to express time.                                                                                                                                                0.642857
+4.1.8 Ant should not be used to express the nature/mode/condition of an action or state.                                                                                                     0.615385
+4.1.9 Ant should not be used to express purpose/intended use/aim of an action.                                                                                                               0.416667
+4.10.1 Už should not be used in certain constructions.                                                                                                                                       0.600000
+4.2.1 Apie should not be used to express the object of an action with certain words.                                                                                                         0.600000
+4.3.1 Į should not be used to express the object of an action with certain words.                                                                                                            0.400000
+4.4.1 Iki should not be used to express a state in an impersonal sentence.                                                                                                                   0.500000
+4.5.1 Iš should not be used with certain words to indicate the date of writing.                                                                                                              0.200000
+4.6.1 Pas should not be used to indicate ownership, belonging, or possession.                                                                                                                0.769231
+4.6.2 Pas should not be used to express the recipient or source of an action, not related to location, with verbs.                                                                           0.562500
+4.7.1 Po (with the instrumental case) should not be used to express the mode or basis of an action.                                                                                          0.700000
+4.8.1 Prie should not be used  to express conditions of an action in certain phrases.                                                                                                        0.111111
+4.8.1 Prie should not be used to express conditions of an action in certain phrases.                                                                                                         0.000000
+4.8.2 Prie should not be used to express exchange ratios/conversion rates.                                                                                                                   0.300000
+4.9.1. Prieš should not be used to express the object of an action with certain words.                                                                                                       0.250000
+5.1.1 Masculine-gender noun forms are not to be used to refer to women when describing professions, positions, academic degrees.                                                             0.500000
+5.1.2 The masculine genitive forms of ordinal numerals and of the pronoun kelintas, -a must not be used to denote the day of the month.                                                      1.000000
+5.1.3 The masculine accusative and instrumental forms of adjectives and of participles used with adjectival meaning are not to be used in the so-called “indefinite gender” meaning.         0.818182
+5.10.1 Adverbial participle should not be used to indicate a secondary action of the same agent in personal sentences (instead of a half-participle or participle with proper agreement).    0.636364
+5.10.2 Past tense aorist adverbial participle must not be used to express purpose with the conjunctions kad or idant.                                                                        1.000000
+5.10.3 Past tense aorist adverbial participle must not be used to express a condition with the conjunction jeigu.                                                                            0.900000
+5.11.1 Adverbs ending in -ai (formed from adjectives with the suffix -iškas) should not be used to indicate the quality of a thing.                                                          1.000000
+5.2.1 The basic quantitative numeral forms from 2 to 9 and the pronoun abu, abi are not to be used with plural-only nouns (nouns that exist only in the plural).                             0.300000
+5.3.1 The pronominal forms (the forms with possessive endings) of ordinal numerals that denote decades are not to be used to indicate decades.                                               1.000000
+5.4.1 The infinitive should not be used with the conjunction jei/jeigu to express a condition.                                                                                               0.583333
+5.4.2 The infinitive should not be used with the conjunction kad (also idant) to express purpose.                                                                                            0.733333
+5.5.1 Negative predicate forms should not to be used in subordinate clauses expressing concession, when actual negation is not meant.                                                        0.600000
+5.6.1 Simple forms of the subjunctive mood should not to be used instead of compound forms to express past actions (often hypothetical or unrealized).                                       1.000000
+5.7.1 Reflexive forms of certain verbs should not to be used with a passive meaning if the action cannot occur by itself.                                                                    0.785714
+5.8.1 Active present participle should not be used with nouns that do not denote an agent (nouns that cannot perform an action).                                                             0.619048
+5.8.2 Active past participle should not be used to indicate an action occurring simultaneously with or subsequent to the main verb.                                                          0.600000
+5.8.3 Passive past participle should not be used to express a property or state that has arisen spontaneously (without external influence or deliberate intervention).                       0.800000
+5.9.1 Half-participle should not be used to indicate a secondary action that does not coincide in time at any point with the main verb’s action.                                             1.000000
+6.1.1 Gi must not be used instead of a coordinating conjunction expressing contrast.                                                                                                         1.000000
+6.2.1 Ir should not be used to link words in intensifying constructions with adjectives and adverbs.                                                                                         0.100000
+6.3.1 Sykį should not be used to introduce subordinate conditional clauses.                                                                                                                  1.000000
+6.4.1 Vietoj to, kad should not be used with an infinitive or participle in place of užuot.                                                                                                  0.166667
+
+Accuracy by linguistic_phenomenon:
+linguistic_phenomenon
+3.1 Nominative case                         0.571429
+3.2 Genitive case                           0.692308
+3.3 Dative case                             0.800000
+3.4 Accusative case                         0.466667
+3.5 Instrumental case                       0.606061
+3.6 Locative case                           0.618182
+4.1 Ant                                     0.595960
+4.10 Už                                     0.600000
+4.2 Apie                                    0.600000
+4.3 Į                                       0.400000
+4.4 Iki                                     0.500000
+4.5 Iš                                      0.200000
+4.6 Pas                                     0.655172
+4.7 Po                                      0.700000
+4.8 Prie                                    0.200000
+4.9 Prieš                                   0.250000
+5.1 Gender forms                            0.774194
+5.10 Adverbial participle                   0.852941
+5.10 Adverbs                                1.000000
+5.2 Abu, abi                                0.300000
+5.3 Ordinal numerals that denote decades    1.000000
+5.4 Infinitive                              0.666667
+5.5 Negative predicate forms                0.600000
+5.6 Simple forms of the subjunctive mood    1.000000
+5.7 Reflexive forms                         0.785714
+5.8 Participles                             0.658537
+5.9 Half-participle                         1.000000
+6.1 Gi                                      1.000000
+6.2 Ir                                      0.100000
+6.3 Sykį                                    1.000000
+6.4 Vietoj to, kad                          0.166667
+
+------------------------------------------------------------
+
+Excluding exception rows:
+Total sentences: 757
+Correct decisions: 481
+Incorrect decisions: 276
+Accuracy: 0.635
+
+Accuracy by error_name:
+error_name
+3.1.1 Nominative cases should not be used to express an indefinite quantity of things or a part of something (instead of the partitive genitive) with certain verbs.                         0.764706
+3.1.2 Nominative case should not be used to express direct address.                                                                                                                          0.200000
+3.2.1 Genitive case should not be used to denote the object of an action with certain verbs.                                                                                                 0.400000
+3.2.2 Genitive case should not be used to express comparative quantity with the comparative adverbs (ne) daugiau, (ne) mažiau, (ne) ilgiau, (ne) vėliau, (ne) anksčiau.                      0.923077
+3.3.1 Dative case should not be used to denote the object of an action with certain expressions.                                                                                             0.900000
+3.3.2 Dative case should not be used to describe a thing/object when purpose is not being expressed.                                                                                         0.700000
+3.3.3 Dative case should not be used for indicating a specific time limit or moment when purpose is not being expressed.                                                                     1.000000
+3.3.4 Dative should not be used with verbs of motion to express purpose.                                                                                                                     0.785714
+3.4.1 Accusative case should not be used to express an indefinite quantity of things or a part of something (instead of the partitive genitive).                                             0.400000
+3.4.2 Accusative case should not be used to express the direct object next to a negative verb (instead of the genitive).                                                                     0.600000
+3.4.3 Accusative case should not be used with verbs of motion to express purpose or aim when the accusative cannot stand alone without the infinitive.                                       0.400000
+3.5.1. Instrumental case should not be used to express the object with verbs denoting fullness or increase.                                                                                  0.727273
+3.5.2 Instrumental case should not be used to express content of quality with adjectives denoting abundance.                                                                                 0.272727
+3.5.3 Instrumental case should not be used to express the agent or cause of a state (but not the instrument) with passive participles.                                                       0.300000
+3.5.4 Instrumental case should not be used with forms of the verb būti to express a permanent (unchanging) state.                                                                            1.000000
+3.5.5 The instrumental of adjectives (and words used adjectivally) should not be used to express a state.                                                                                    0.700000
+3.6.1 Locative case should not be used to express the experiencer of a state.                                                                                                                0.700000
+3.6.2 Locative case should not be used to express the domain of an action, state, or quality (but not a place).                                                                              0.700000
+3.6.3 Locative case should not be used to express the state, condition, or characteristic of a thing.                                                                                        0.509091
+3.6.4 Locative case should not be used to express the cause or basis of a state.                                                                                                             0.916667
+3.6.5 Locative case should not be used to express the manner or timing of an action.                                                                                                         0.846154
+3.6.6 Locative case should not be used to express a time period as a preposition or postposition.                                                                                            0.400000
+4.1.1 Ant should not be used to to express the instrument/means of an action when it is not related to location.                                                                             0.500000
+4.1.2 Ant should not be used to express the object with adjectives.                                                                                                                          0.300000
+4.1.3 Ant should not be used to express the object of an action with verbs.                                                                                                                  0.700000
+4.1.4 Ant should not be used to indicate dimensions or a ratio of sizes.                                                                                                                     0.700000
+4.1.5 Ant should not be used to express a characteristic of a thing not related to location.                                                                                                 0.700000
+4.1.6 Ant should not be used to express place when what is meant is not a surface, but a direction into something or being inside something.                                                 0.800000
+4.1.7 Ant should not be used to express time.                                                                                                                                                0.642857
+4.1.8 Ant should not be used to express the nature/mode/condition of an action or state.                                                                                                     0.615385
+4.1.9 Ant should not be used to express purpose/intended use/aim of an action.                                                                                                               0.416667
+4.10.1 Už should not be used in certain constructions.                                                                                                                                       0.600000
+4.2.1 Apie should not be used to express the object of an action with certain words.                                                                                                         0.600000
+4.3.1 Į should not be used to express the object of an action with certain words.                                                                                                            0.400000
+4.4.1 Iki should not be used to express a state in an impersonal sentence.                                                                                                                   0.500000
+4.5.1 Iš should not be used with certain words to indicate the date of writing.                                                                                                              0.200000
+4.6.1 Pas should not be used to indicate ownership, belonging, or possession.                                                                                                                0.769231
+4.6.2 Pas should not be used to express the recipient or source of an action, not related to location, with verbs.                                                                           0.562500
+4.7.1 Po (with the instrumental case) should not be used to express the mode or basis of an action.                                                                                          0.700000
+4.8.1 Prie should not be used  to express conditions of an action in certain phrases.                                                                                                        0.111111
+4.8.1 Prie should not be used to express conditions of an action in certain phrases.                                                                                                         0.000000
+4.8.2 Prie should not be used to express exchange ratios/conversion rates.                                                                                                                   0.300000
+4.9.1. Prieš should not be used to express the object of an action with certain words.                                                                                                       0.250000
+5.1.1 Masculine-gender noun forms are not to be used to refer to women when describing professions, positions, academic degrees.                                                             0.500000
+5.1.2 The masculine genitive forms of ordinal numerals and of the pronoun kelintas, -a must not be used to denote the day of the month.                                                      1.000000
+5.1.3 The masculine accusative and instrumental forms of adjectives and of participles used with adjectival meaning are not to be used in the so-called “indefinite gender” meaning.         0.818182
+5.10.1 Adverbial participle should not be used to indicate a secondary action of the same agent in personal sentences (instead of a half-participle or participle with proper agreement).    0.636364
+5.10.2 Past tense aorist adverbial participle must not be used to express purpose with the conjunctions kad or idant.                                                                        1.000000
+5.10.3 Past tense aorist adverbial participle must not be used to express a condition with the conjunction jeigu.                                                                            0.900000
+5.11.1 Adverbs ending in -ai (formed from adjectives with the suffix -iškas) should not be used to indicate the quality of a thing.                                                          1.000000
+5.2.1 The basic quantitative numeral forms from 2 to 9 and the pronoun abu, abi are not to be used with plural-only nouns (nouns that exist only in the plural).                             0.300000
+5.3.1 The pronominal forms (the forms with possessive endings) of ordinal numerals that denote decades are not to be used to indicate decades.                                               1.000000
+5.4.1 The infinitive should not be used with the conjunction jei/jeigu to express a condition.                                                                                               0.583333
+5.4.2 The infinitive should not be used with the conjunction kad (also idant) to express purpose.                                                                                            0.733333
+5.5.1 Negative predicate forms should not to be used in subordinate clauses expressing concession, when actual negation is not meant.                                                        0.600000
+5.6.1 Simple forms of the subjunctive mood should not to be used instead of compound forms to express past actions (often hypothetical or unrealized).                                       1.000000
+5.7.1 Reflexive forms of certain verbs should not to be used with a passive meaning if the action cannot occur by itself.                                                                    0.818182
+5.8.1 Active present participle should not be used with nouns that do not denote an agent (nouns that cannot perform an action).                                                             0.705882
+5.8.2 Active past participle should not be used to indicate an action occurring simultaneously with or subsequent to the main verb.                                                          0.600000
+5.8.3 Passive past participle should not be used to express a property or state that has arisen spontaneously (without external influence or deliberate intervention).                       0.800000
+5.9.1 Half-participle should not be used to indicate a secondary action that does not coincide in time at any point with the main verb’s action.                                             1.000000
+6.1.1 Gi must not be used instead of a coordinating conjunction expressing contrast.                                                                                                         1.000000
+6.2.1 Ir should not be used to link words in intensifying constructions with adjectives and adverbs.                                                                                         0.100000
+6.3.1 Sykį should not be used to introduce subordinate conditional clauses.                                                                                                                  1.000000
+6.4.1 Vietoj to, kad should not be used with an infinitive or participle in place of užuot.                                                                                                  0.166667
+
+Accuracy by linguistic_phenomenon:
+linguistic_phenomenon
+3.1 Nominative case                         0.555556
+3.2 Genitive case                           0.695652
+3.3 Dative case                             0.833333
+3.4 Accusative case                         0.466667
+3.5 Instrumental case                       0.612903
+3.6 Locative case                           0.618182
+4.1 Ant                                     0.595960
+4.10 Už                                     0.600000
+4.2 Apie                                    0.600000
+4.3 Į                                       0.400000
+4.4 Iki                                     0.500000
+4.5 Iš                                      0.200000
+4.6 Pas                                     0.655172
+4.7 Po                                      0.700000
+4.8 Prie                                    0.200000
+4.9 Prieš                                   0.250000
+5.1 Gender forms                            0.793103
+5.10 Adverbial participle                   0.852941
+5.10 Adverbs                                1.000000
+5.2 Abu, abi                                0.300000
+5.3 Ordinal numerals that denote decades    1.000000
+5.4 Infinitive                              0.666667
+5.5 Negative predicate forms                0.600000
+5.6 Simple forms of the subjunctive mood    1.000000
+5.7 Reflexive forms                         0.818182
+5.8 Participles                             0.702703
+5.9 Half-participle                         1.000000
+6.1 Gi                                      1.000000
+6.2 Ir                                      0.100000
+6.3 Sykį                                    1.000000
+6.4 Vietoj to, kad                          0.166667
+
+------------------------------------------------------------
