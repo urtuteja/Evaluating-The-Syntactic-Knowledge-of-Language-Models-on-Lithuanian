@@ -15,7 +15,7 @@ This project extends the work introduced in:
 **Jakubauskaitė, U. & Alhama, R. G. (2026)** – *Evaluating Large Language Models on Lithuanian Grammatical Cases*  
 [https://aclanthology.org/2026.loreslm-1.32/](https://aclanthology.org/2026.loreslm-1.32/)
 
-Compared to the previous work, this repository includes a considerably larger dataset and a larger number of language models..
+Compared to the previous work, this repository includes a considerably larger dataset and a larger number of language models.
 
 ---
 
