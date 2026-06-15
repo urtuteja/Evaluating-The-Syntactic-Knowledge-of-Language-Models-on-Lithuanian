@@ -70,10 +70,10 @@ The script `evaluate_pairs.py` evaluates language models on the minimal sentence
 
 ```bash
 python3 evaluate_pairs.py \
-    --model utter-project/MODEL_NAME \
+    --model utter-project/<MODEL_NAME> \
     --input Lithuanian_Dataset.csv \
     --output EVALUATED_Lithuanian_Dataset.csv \
-    --token YOUR_TOKEN
+    --token <YOUR_HF_TOKEN>
 ```
 ---
 
