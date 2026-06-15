@@ -8,6 +8,8 @@ This work was developed as part of my Master's thesis:
 
 **MSc_Logic_Thesis_Urtė_Jakubauskaitė.pdf**
 
+---
+
 ## Background
 
 This project extends the work introduced in:
@@ -73,6 +75,7 @@ python3 evaluate_pairs.py \
     --output EVALUATED_Lithuanian_Dataset.csv \
     --token YOUR_TOKEN
 ```
+---
 
 ## Results
 
