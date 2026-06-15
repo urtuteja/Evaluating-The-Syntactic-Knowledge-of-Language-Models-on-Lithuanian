@@ -126,4 +126,6 @@ The full methodology, dataset creation process, evaluation procedure, results, d
 
 **MSc_Logic_Thesis_Urtė_Jakubauskaitė.pdf**
 
+If you have questions regarding the dataset or the study in general, you can reach out via: [urte.jakubauskaite@gmail.com](mailto:urte.jakubauskaite@gmail.com).
+
 ---
